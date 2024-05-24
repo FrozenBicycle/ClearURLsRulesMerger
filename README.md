@@ -1,4 +1,4 @@
-# CleanURLs Rules Merger
+# ClearURLs Rules Merger
 
 This is a script project that offers a `merger.py`
 for merging your local custom rules (json file) with
