@@ -11,8 +11,8 @@ from urllib.request import urlopen
 # public rules
 PUBLIC_RULES_URL: LiteralString = "https://github.com/ClearURLs/Rules/raw/master/data.min.json"
 # local rules
-LOCAL_RULES_PATH: LiteralString = "data.json"
-MERGED_PATH: LiteralString = "data.merged.json"
+LOCAL_RULES_PATH: LiteralString = "./data/data.json"
+MERGED_PATH: LiteralString = "./data/data.merged.json"
 
 
 # type aliases
